@@ -1,5 +1,5 @@
 function home(){
-    return <h1>Se você leu isso, saiba que definitvamente você saber ler.</h1>
+    return <img src="./images/fofo.jpeg"></img>
 }
 
 export default home;
